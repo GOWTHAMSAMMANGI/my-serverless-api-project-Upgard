@@ -172,7 +172,3 @@ Tests are defined in the \_\_tests__ folder in this project. Use `npm` to instal
 my-application$ npm install
 my-application$ npm run test
 ```
-
-### Project Video Link
----
-loom link: https://www.loom.com/share/697edee5d1c549f4aab374ed8e104e0c?sid=266cdeb9-d874-40d0-97d3-1e5b3b6f2ea5
